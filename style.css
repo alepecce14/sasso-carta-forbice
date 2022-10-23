@@ -1,0 +1,81 @@
+#titolo {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  font-style: oblique;
+  text-shadow: 2px 2px 7px black;
+  text-align: center;
+  padding-top: 25px;
+}
+
+#form {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding-top: 40px;
+  font-size: 20px;
+  position: relative;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+p {
+  margin-top: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: black;
+  position: relative;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+html {
+  background-color: lightblue;
+}
+
+button {
+  height: 120px;
+  width: 120px;
+  margin-top: 45px;
+  border-radius: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  transition-duration: 0.2s;
+}
+
+button:hover {
+  background-color: gray;
+  color: white;
+}
+
+#sasso {
+  margin-right: 20px;
+}
+
+#carta {
+  margin-right: 20px;
+}
+
+#score {
+  position: relative;
+  display: table;
+  margin-left: 35.5%;
+  padding-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 35px;
+
+}
+
+#res {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding-top: 6%;
+  font-weight: bold;
+  
+}
