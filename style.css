@@ -61,9 +61,9 @@ button:hover {
 
 #score {
   position: relative;
-  display: table;
-  margin-left: 35.5%;
-  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 35px;
 
